@@ -1,0 +1,12 @@
+C:\Users\Takua\source\repos\IOTA\IOTA\bin\Debug\IOTA.exe.config
+C:\Users\Takua\source\repos\IOTA\IOTA\bin\Debug\IOTA.exe
+C:\Users\Takua\source\repos\IOTA\IOTA\bin\Debug\IOTA.pdb
+C:\Users\Takua\source\repos\IOTA\IOTA\obj\Debug\Test.AboutForm.resources
+C:\Users\Takua\source\repos\IOTA\IOTA\obj\Debug\Test.AddForm.resources
+C:\Users\Takua\source\repos\IOTA\IOTA\obj\Debug\Test.IOTA.resources
+C:\Users\Takua\source\repos\IOTA\IOTA\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Takua\source\repos\IOTA\IOTA\obj\Debug\IOTA.csproj.GenerateResource.cache
+C:\Users\Takua\source\repos\IOTA\IOTA\obj\Debug\IOTA.csproj.CoreCompileInputs.cache
+C:\Users\Takua\source\repos\IOTA\IOTA\obj\Debug\IOTA.exe
+C:\Users\Takua\source\repos\IOTA\IOTA\obj\Debug\IOTA.pdb
+C:\Users\Takua\source\repos\IOTA\IOTA\obj\Debug\IOTA.csprojAssemblyReference.cache

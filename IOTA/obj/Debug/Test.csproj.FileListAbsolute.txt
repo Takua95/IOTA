@@ -1,0 +1,12 @@
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe.config
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\bin\Debug\Test.exe
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\bin\Debug\Test.pdb
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\obj\Debug\Test.IOTA.resources
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\obj\Debug\Test.Properties.Resources.resources
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\obj\Debug\Test.exe
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\obj\Debug\Test.pdb
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\obj\Debug\Test.AddForm.resources
+C:\Users\Takua\AppData\Local\Temporary Projects\Test\obj\Debug\Test.AboutForm.resources
